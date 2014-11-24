@@ -1,7 +1,9 @@
+Utilities_Illustrator
+-----------------------------------------------------------------------------
 This is a collection of utilities for Adobe Illustrator on Windows. 
 They were written in JavaScript and are presently in use on Illustrator CS5+.
 All contents of this directory (C) Will Isenhour unless noted otherwise. 11/24/2014
------------------------------------------------------------------------------
+
 
 EdgeLine -
 Draws a fine yellow line around the perimeter of every artboard in a document,
